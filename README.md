@@ -1,5 +1,5 @@
 # pokle-resolver
-Tool that makes you achieve pokle streak with ease
+Tool that makes you achieve [pokle](https://poklegame.com) streak with ease
 
 for now, it only check the rank of hand :))
 to test, please run
